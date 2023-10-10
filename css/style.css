@@ -1,0 +1,63 @@
+.nav{
+   background-image: url(https://images.anaca3.com/wp-content/uploads/2018/03/la-viande-grillee-fait-elle-grossir-702x336.jpg);
+    height:500px;
+    background-size: cover;
+  
+   
+    
+}
+.nav>ul{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    
+}
+    
+li a {
+    text-decoration: none;
+    color: white;
+    
+}
+li a:hover{
+    color: red;
+}
+
+li{
+    text-decoration: none;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+body{
+    background-color: black;
+}
+.contenu-1{
+   background-color:white;
+   display: flex;
+   justify-content: center;
+   width: 100%;
+   font-size: 40px;
+  
+}
+.contenu>p{
+    font-size: 65px;
+}
+.contenu-2{
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+    width: 100%;
+
+}
+.contenu-3{
+    display: flex;
+    background-color: black;
+    width: 100%;
+}
+.forme-input{
+    background-color: transparent;
+    width: 100%;
+    
+}
